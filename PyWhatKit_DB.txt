@@ -1,0 +1,281 @@
+Date: 8/1/2025
+Time: 21:35
+Phone Number: +1234567890
+Message: Hey! This is an instant message.
+--------------------
+Date: 8/1/2025
+Time: 21:36
+Phone Number: +918870677228
+Message: Hey! This is an instant message.
+--------------------
+Date: 8/1/2025
+Time: 21:44
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Check out this logo!
+--------------------
+Date: 8/1/2025
+Time: 21:48
+Phone Number: +918870677228
+Message: Sending an image, please wait...
+--------------------
+Date: 8/1/2025
+Time: 21:53
+Phone Number: +918870677228
+Message: Sending an image, please wait...
+--------------------
+Date: 8/1/2025
+Time: 22:1
+Phone Number: +918870677228
+Message: Sending an image, please wait...
+--------------------
+Date: 9/1/2025
+Time: 10:47
+Phone Number: +918870677228
+Message: Sending an image, please wait...
+--------------------
+Date: 9/1/2025
+Time: 10:49
+Phone Number: +918870677228
+Message: Sending an image, please wait...
+--------------------
+Date: 9/1/2025
+Time: 10:51
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: This is the image caption
+--------------------
+Date: 9/1/2025
+Time: 11:0
+Group ID: AB123CDEFGHijklmn
+Image: socio_curry_logo.png
+Caption: Hello
+--------------------
+Date: 9/1/2025
+Time: 11:1
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Hello
+--------------------
+Date: 9/1/2025
+Time: 11:6
+Phone Number: +918870677228
+Image: D:\python_projects\whatsapp_automation\socio_curry_logo.png
+Caption: Hello
+--------------------
+Date: 9/1/2025
+Time: 11:15
+Group ID: 918870677228
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 11:15
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 11:20
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:0
+Phone Number: +918438681449
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:5
+Phone Number: +918438681449
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:6
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:6
+Phone Number: +919944917607
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:7
+Phone Number: +919791248509
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:7
+Phone Number: +919080547991
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:23
+Phone Number: +918438681449
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:24
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:24
+Phone Number: +919944917607
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:25
+Phone Number: +919791248509
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:26
+Phone Number: +919080547991
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:28
+Phone Number: +918438681449
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:29
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:29
+Phone Number: +919944917607
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:29
+Phone Number: +919791248509
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 9/1/2025
+Time: 12:30
+Phone Number: +919080547991
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 10/1/2025
+Time: 7:7
+Phone Number: +918438681449
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 10/1/2025
+Time: 7:8
+Phone Number: +918870677228
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 10/1/2025
+Time: 7:9
+Phone Number: +919944917607
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 10/1/2025
+Time: 7:9
+Phone Number: +919791248509
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 10/1/2025
+Time: 7:10
+Phone Number: +919080547991
+Image: socio_curry_logo.png
+Caption: Hello, here's the image!
+--------------------
+Date: 10/1/2025
+Time: 10:58
+Phone Number: +918870677228.0
+Image: before_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 10:59
+Phone Number: +918870677228.0
+Image: after_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 10:59
+Phone Number: +916383328362.0
+Image: before_Sridhar.png
+Caption: Hi Sridhar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 11:0
+Phone Number: +916383328362.0
+Image: after_Sridhar.png
+Caption: Hi Sridhar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:3
+Phone Number: +918870677228.0
+Image: before_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:4
+Phone Number: +918870677228.0
+Image: after_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:13
+Phone Number: +918870677228.0
+Image: before_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:13
+Phone Number: +918870677228.0
+Image: after_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:17
+Phone Number: +918870677228
+Image: before_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:17
+Phone Number: +918870677228
+Image: after_Sivakumar.png
+Caption: Hi Sivakumar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:18
+Phone Number: +916383328362
+Image: before_Sridhar.png
+Caption: Hi Sridhar, here are your images!
+--------------------
+Date: 10/1/2025
+Time: 12:18
+Phone Number: +916383328362
+Image: after_Sridhar.png
+Caption: Hi Sridhar, here are your images!
+--------------------
