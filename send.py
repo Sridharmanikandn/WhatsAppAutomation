@@ -4,8 +4,7 @@ import pywhatkit
 import time
 from openpyxl import load_workbook
 import os
-import random
-import pyautogui
+# import pyautogui
 
 def download_image(url, image_path):
     try:
@@ -29,9 +28,9 @@ def download_image(url, image_path):
 def send_image_with_caption(phone_number, image_path, caption):
     try:
         st.write(f"Initiating sending image {image_path} to {phone_number}...") 
-        pywhatkit.sendwhats_image(phone_number, image_path, caption=caption, wait_time=25, tab_close=False)
-        time.sleep(20)
-        pyautogui.hotkey('ctrl', 'w') 
+        pywhatkit.sendwhats_image(phone_number, image_path, caption=caption, wait_time=30, tab_close=true)
+        time.sleep(30)
+        # pyautogui.hotkey('ctrl', 'w') 
         st.write(f"Image {image_path} sent successfully to {phone_number} and tab closed!")
         return True
     except Exception as e:
